@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Elevate Your Career",
+    "cta": "Learn More",
+    "description": "Description for Elevate Your Career",
+    "image": "https://cvjury.com/wp-content/uploads/2024/04/Career-choices-in-the-21st-century-2-02.webp",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png",
+    "uid": "templates5",
+    "className": "text-white font-bold"
+  },
+  {
+    "id": 2,
+    "title": "Elevate Your Career",
+    "description": "Description for Elevate Your Career",
+    "cta": "Shop Now",
+    "image": "https://lmes-mars-cdn.jujube.in/images/streams/1589809570021_image.png",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png",
+    "uid": "templates9",
+    "className": "text-black font-bold"
+  },
+  {
+    "id": 3,
+    "title": "Elevate Your Career",
+    "description": "Description for Elevate Your Career",
+    "cta": "Shop Now",
+    "image": "https://blog.talent500.co/wp-content/uploads/2023/09/gd-group-discussion-tips.jpg",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png",
+    "uid": "templates1",
+    "className": "text-black font-bold"
+  },
+  {
+    "id": 4,
+    "title": "Elevate Your Career",
+    "description": "Description for Elevate Your Career",
+    "cta": "Shop Now",
+    "image": "https://img.freepik.com/free-photo/business-woman-with-laptop_1303-6002.jpg",
+    "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/15/square.png",
+    "uid": "templates15",
+    "className": "text-black font-bold"
+  }
+]
